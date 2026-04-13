@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Dubey
 
-<!--
-**abhishekdubey93/abhishekdubey93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineering Student | Python Developer | ML Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Currently working on ML Projects  
+- 🌱 Learning AI & Data Science  
+- 💡 Love building real-world solutions  
+
+---
+
+## ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![ML](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats (Animated)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=abhishekdubey93&theme=radical)
+
+---
+
+## 🔥 Contribution Graph (Animated Snake)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📂 Projects
+- 🌊 Flood Prediction ML  
+- 🎯 Cheating Detection System  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (your link)
