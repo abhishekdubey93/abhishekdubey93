@@ -105,11 +105,11 @@ Student Productivity and Study Management Application.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight" />
 </p>
 ---
 
@@ -124,7 +124,7 @@ Student Productivity and Study Management Application.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekdubey93&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekdubey93&theme=algolia&no-frame=true" />
 </p>
 ---
 
