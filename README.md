@@ -124,7 +124,7 @@ Student Productivity and Study Management Application.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekdubey93&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekdubey93&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophies"/>
 </p>
 ---
 
