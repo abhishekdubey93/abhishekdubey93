@@ -1,39 +1,59 @@
 # 👋 Hi, I'm Abhishek Dubey
 
-🚀 AI Engineering Student | Python Developer | ML Enthusiast  
+🚀 AIML Engineering Student | Python Developer | ML Enthusiast
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on ML Projects  
-- 🌱 Learning AI & Data Science  
-- 💡 Love building real-world solutions  
+
+- 🔭 Currently working on Machine Learning Projects
+- 🌱 Learning AI, Data Science & Web Development
+- 💡 Love building real-world solutions
+- 🎯 Goal: Become an AI Engineer
 
 ---
 
-## ⚡ Tech Stack
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![ML](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-## 📊 GitHub Stats (Animated)
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=radical)
+## 🌐 Connect With Me
 
-![Streak](https://streak-stats.demolab.com/?user=abhishekdubey93&theme=radical)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 
----
-
-## 🔥 Contribution Graph (Animated Snake)
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 📂 Projects
-- 🌊 Flood Prediction ML:-  https://github.com/abhishekdubey93/Flood-Prediction-ML
-- 🎯 Food Delivery Order Cancellation Analysis:-  https://github.com/abhishekdubey93/Food-Delivery-Order-Cancellation-Analysis-
+## 📊 GitHub Stats
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight)
+
 ---
 
-## 📫 Connect with Me
-- LinkedIn: ([your link](https://www.linkedin.com/in/abhishek-dubey-221217332?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishekdubey93&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+
+🏅 ML Projects  
+🏅 Python Development  
+🏅 AIML Engineering Student  
+🏅 Open Source Learner
+
+---
+
+### ⭐ "Building AI Solutions One Project At A Time"
