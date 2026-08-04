@@ -1,53 +1,65 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Abhishek%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Abhishek Dubey
+<h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
 
-🚀 AIML Engineering Student | Machine Learning Developer | Python Programmer | Android Developer
+<h3 align="center">
+AI Engineering Student | Machine Learning Developer | Python Programmer | Android Developer
+</h3>
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, Android Development, and Real-World Problem Solving.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineering+Student;Machine+Learning+Developer;Python+Developer;Android+Developer;Future+AI+Engineer;Building+Real+World+Projects&center=true&width=800&height=50">
+</p>
 
-🌱 Currently Learning:
-- Advanced Machine Learning
-- Data Science
-- Android Development with Kotlin
-- AI-Powered Applications
-
-🎯 Goal:
-To become a skilled AI Engineer and build impactful products that solve real-world problems.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhishekdubey93&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-- 🎓 AIML Engineering Student
-- 🐍 Python Developer
-- 🤖 Machine Learning Enthusiast
-- 📱 Android App Developer
-- 🌐 Web Development Learner
-- 📊 Data Analysis & Visualization
-- 🚀 Love Building Real-World Projects
-- 💡 Always Learning New Technologies
+🎓 AIML Engineering Student
+
+🐍 Python Developer
+
+🤖 Machine Learning Enthusiast
+
+📱 Android Developer
+
+📊 Data Science Learner
+
+🌐 Web Development Learner
+
+🚀 Building Real-World Projects
+
+💡 Always Learning New Technologies
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Data Science
+- Android Development with Kotlin
+- Artificial Intelligence
+- Full Stack Development
 
 ---
 
 # ⚡ Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
----
-
-## 🌐 Web Development
+### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)
@@ -57,17 +69,13 @@ To become a skilled AI Engineer and build impactful products that solve real-wor
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-teal?style=for-the-badge)
 
----
-
-## 📱 App Development
+### 📱 App Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
----
-
-## 🛠 Tools & Platforms
+### 🛠 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -78,65 +86,98 @@ To become a skilled AI Engineer and build impactful products that solve real-wor
 
 # 🚀 Featured Projects
 
-### 🌦 Weather Prediction Node
-Machine Learning based weather forecasting system with real-time weather insights.
+## 🌦 Weather Prediction Node
+Machine Learning based weather prediction system with future forecasting.
 
-### 🌍 Smart AQI Guardian
-Air Quality Index prediction and monitoring application using Machine Learning.
+## 🌍 Smart AQI Guardian
+Air Quality Prediction and Monitoring using Machine Learning.
 
-### 🚑 MediRoute
-Emergency Medical Assistance Android Application with location tracking and emergency support.
+## 🚑 MediRoute
+Emergency Medical Assistance Android Application using Kotlin, Firebase and Maps.
 
-### 🍔 Food Delivery Cancellation Analysis
-Machine Learning and Data Analysis project for predicting food order cancellations.
+## 🍔 Food Delivery Cancellation Analysis
+Machine Learning model for predicting food order cancellations.
 
-### 📚 FocusOS
-AI-powered productivity and study management application for students.
+## 📚 FocusOS
+Student Productivity and Study Management Application.
 
 ---
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight" height="180">
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=abhishekdubey93&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=abhishekdubey93&theme=tokyonight">
+</p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
-🏅 Machine Learning Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekdubey93&theme=tokyonight&no-frame=true&row=1&column=7">
+</p>
 
-🏅 Android Development Projects
+---
 
-🏅 Python Development
+# 📈 Contribution Graph
 
-🏅 Data Science Learning
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdubey93&theme=tokyo-night">
+</p>
 
-🏅 AI Engineering Student
+---
 
-🏅 Real-World Problem Solver
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/abhishekdubey93/abhishekdubey93/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhishekdubey93)
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+<a href="https://github.com/abhishekdubey93">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekdubey8340@gmail.com)
+<a href="mailto:abhishekdubey8340@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-## 💭 Quote
+# 🎯 Goals for 2026
 
-> "Building AI Solutions One Project At A Time."
+✅ Master Machine Learning
+
+✅ Build Production AI Projects
+
+✅ Learn Advanced Android Development
+
+✅ Contribute to Open Source
+
+✅ Become an AI Engineer
+
+---
+
+# 💭 Quote
+
+### "Building AI Solutions One Project At A Time 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
