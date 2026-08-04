@@ -121,11 +121,13 @@ Student Productivity and Study Management Application.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekdubey93&theme=algolia" />
-</p>
+- 🤖 Machine Learning & AI
+- 📱 Android Development with Kotlin
+- 📊 Data Science & Analytics
+- 🌐 Web Development
+- 🚀 Building Real-World Projects
 ---
 
 # 📈 Contribution Graph
