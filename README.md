@@ -103,15 +103,19 @@ Machine Learning model for predicting food order cancellations.
 Student Productivity and Study Management Application.
 
 ---
-## 📊 GitHub Statistics
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekdubey93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey93&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 # 🔥 GitHub Streak
@@ -131,10 +135,11 @@ Student Productivity and Study Management Application.
 - 🚀 Building Real-World Projects
 ---
 
-# 📈 Contribution Graph
+
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdubey93&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdubey93&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 ---
